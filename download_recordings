@@ -1,5 +1,5 @@
-const API_KEY = '94bdd534d41832548d411a4cf2018d22';
-const FORM_ID = '243466180372053';
+const API_KEY = 'JOTFORMKEYHERE';
+const FORM_ID = 'FORMIDHERE';
 const DRIVE_FOLDER_NAME = 'Voice Recordings';
 
 function downloadVoiceRecordings() {
